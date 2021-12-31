@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cf-clark-salesreps/static/css/main.e6c13ad2.css",
-    "main.js": "/cf-clark-salesreps/static/js/main.27f53d26.js",
-    "static/js/787.0a797086.chunk.js": "/cf-clark-salesreps/static/js/787.0a797086.chunk.js",
-    "index.html": "/cf-clark-salesreps/index.html",
-    "main.e6c13ad2.css.map": "/cf-clark-salesreps/static/css/main.e6c13ad2.css.map",
-    "main.27f53d26.js.map": "/cf-clark-salesreps/static/js/main.27f53d26.js.map",
-    "787.0a797086.chunk.js.map": "/cf-clark-salesreps/static/js/787.0a797086.chunk.js.map"
+    "main.css": "/cf-clark-salesreps/front-end/static/css/main.e6c13ad2.css",
+    "main.js": "/cf-clark-salesreps/front-end/static/js/main.4f7e4e46.js",
+    "static/js/787.0a797086.chunk.js": "/cf-clark-salesreps/front-end/static/js/787.0a797086.chunk.js",
+    "index.html": "/cf-clark-salesreps/front-end/index.html",
+    "main.e6c13ad2.css.map": "/cf-clark-salesreps/front-end/static/css/main.e6c13ad2.css.map",
+    "main.4f7e4e46.js.map": "/cf-clark-salesreps/front-end/static/js/main.4f7e4e46.js.map",
+    "787.0a797086.chunk.js.map": "/cf-clark-salesreps/front-end/static/js/787.0a797086.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.27f53d26.js"
+    "static/js/main.4f7e4e46.js"
   ]
 }
