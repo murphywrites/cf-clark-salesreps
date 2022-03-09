@@ -63,7 +63,7 @@ const Posts = () => {
     useEffect(() => {
 
         const loadPosts = () => {
-            axios.get('https://asphosting.millerconsulting.com/wpdev/wp-json/wp/v2/salesreps')
+            axios.get('http://cfclarkc.w32.wh-2.com/wpdev/wp-json/wp/v2/salesreps')
             .then( res =>
                     setPosts(res.data),
                     setIsLoaded(true)
@@ -149,7 +149,7 @@ if (coveredStates.some(isCoveredState)) {
     </div>
 
     {(areaCodeSearchValue !== "" & noAreaCodeMatches) ?
-    <div><h4>No sales reps for that area code. Please use <a href="https://asphosting.millerconsulting.com/wpdev/#contact" style={{textDecoration: "underline"}}>contact form (click here)</a> for inquiries about coverage.</h4></div> : null }
+    <div><h4>No sales reps for that area code. Please use <a href="http://cfclarkc.w32.wh-2.com/wpdev/#contact" style={{textDecoration: "underline"}}>contact form (click here)</a> for inquiries about coverage.</h4></div> : null }
     </>
     );
 }

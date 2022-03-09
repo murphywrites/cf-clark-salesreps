@@ -21,7 +21,7 @@ const SalesRepCard = ({post, currentState, areaCodeSearchValue}) => {
             
         }
 
-        axios.get(`https://asphosting.millerconsulting.com/wpdev/wp-json/wp/v2/media/${photoId}`)
+        axios.get(`http://cfclarkc.w32.wh-2.com/wpdev/wp-json/wp/v2/media/${photoId}`)
         .then( res =>
             setPhotoUrl(res.data.media_details.sizes.full.source_url)
         )
